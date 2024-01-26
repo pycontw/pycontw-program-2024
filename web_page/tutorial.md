@@ -1,10 +1,10 @@
-2023 連結: https://tw.pycon.org/2023/zh-hant/speaking/tutorial
+2024 連結: https://tw.pycon.org/2024/zh-hant/speaking/tutorial
 
-有關投稿的整體流程說明，請參考 [投稿募集](https://tw.pycon.org/2023/zh-hant/speaking/cfp) 一頁。
-For information on the overall CfP process, see [Call for Proposals](https://tw.pycon.org/2023/en-us/speaking/cfp).
+有關投稿的整體流程說明，請參考 [投稿募集](https://tw.pycon.org/2024/zh-hant/speaking/cfp) 一頁。
+For information on the overall CfP process, see [Call for Proposals](https://tw.pycon.org/2024/en-us/speaking/cfp).
 
-首先，謝謝您考慮投稿專業課程至 PyCon Taiwan 2023。
-First of all, thank you for your interest in conducting a tutorial at PyCon Taiwan 2023.
+首先，謝謝您考慮投稿專業課程至 PyCon Taiwan 2024。
+First of all, thank you for your interest in conducting a tutorial at PyCon Taiwan 2024.
 
 一般來說，好的課程滿足一場好演講的諸多特性。不過專業課程較演講最大的差異在課程有手把手的指導，以及較長的時間。因為有更長的時間，專業課程需要準備更多的內容，並且讓聽眾即便在數個小時的講課與操作之後還能覺得有趣且清醒；由於有手把手的指導，一個 20 名學員的課程通常要有兩位（以上）的助教來協助，過程中必須能與助教保持良好的溝通。
 

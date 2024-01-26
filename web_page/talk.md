@@ -1,12 +1,15 @@
-2023 連結: https://tw.pycon.org/2023/zh-hant/speaking/talk
+2024 連結: https://tw.pycon.org/2024/zh-hant/speaking/talk
 
-首先，感謝您投稿 PyCon Taiwan 2023！下面的內容將會幫助您成功地送出一份投稿。我們將會提供一些訣竅使得您的投稿資訊更加完整豐富且具吸引力，並有更高的機率通過審稿。從大方向來說，在投稿之前將從下面幾個方面與問題展開您的思路：
+有關投稿的整體流程說明，請參考 [投稿募集](https://tw.pycon.org/2024/zh-hant/speaking/cfp) 一頁。
+For information on the overall CfP process, see [Call for Proposals](https://tw.pycon.org/2024/en-us/speaking/cfp).
+
+首先，感謝您投稿 PyCon Taiwan 2024！下面的內容將會幫助您成功地送出一份投稿。我們將會提供一些訣竅使得您的投稿資訊更加完整豐富且具吸引力，並有更高的機率通過審稿。從大方向來說，在投稿之前將從下面幾個方面與問題展開您的思路：
 - 投稿的主題是？
 - 誰是您的目標觀眾群？
 - 聽眾群在演講後能得到什麼收穫？
 - 如何在時間限制內組識這演講？
 
-First of all, thank you for your interest in speaking at PyCon Taiwan 2023! This document will help you submit a successful proposal. In this document, we will provide tips to make your proposal strong and informative to increase the chance of your proposal to be accepted.
+First of all, thank you for your interest in speaking at PyCon Taiwan 2024! This document will help you submit a successful proposal. In this document, we will provide tips to make your proposal strong and informative to increase the chance of your proposal to be accepted.
 - What’s your topic?
 - Who is your target audience?
 - What will the audience gain after listening to your talk?
