@@ -1,5 +1,7 @@
 2024 連結: https://tw.pycon.org/2024/zh-hant/speaking/tutorial
 
+# 如何投稿專業課程 How to Propose a Tutorial
+
 有關投稿的整體流程說明，請參考 [投稿募集](https://tw.pycon.org/2024/zh-hant/speaking/cfp) 一頁。
 For information on the overall CfP process, see [Call for Proposals](https://tw.pycon.org/2024/en-us/speaking/cfp).
 
@@ -22,28 +24,30 @@ At least one time of speaking experience in open source events or communities, p
 Prior experience as a teaching assistant in tutorials conducted by others
 We might ask you to give the tutorial at a local Python meetup before the conference if you lack the experience mentioned above.
 
-# 專業課程的長度 Duration
+## 專業課程的長度 Duration
+
 專業課程的長度為 1.5 小時
 在過往的經驗中，6 小時的課程對於講師以及學員而言都非常的累，學員容易因為疲勞而無法持續跟上進度，且難以吸收所學。全天的課程需要相當的教學經驗，為此今年改為 1.5 小時的課程。我們強烈建議清楚定義先備知識以及課程目標，以達到最佳的教學效果。
 
 The length of a tutorial is 1 hour and 30 minutes.
 In our previous experiences, tutorials that run for 6 hours were exhausting for both instructors and students, and students usually find it difficult to follow along in the second half of the tutorial. Full-day tutorials require an experienced instructor, and hence we have decided to limit the length of a tutorial to 1 hour and 30 minutes this year. We strongly recommend you to clearly define prerequisites and goals in your tutorial and tutorial proposal, which will help ensure the best learning experience for the participants.
 
-# 時間與場地 Dates/Location
+## 時間與場地 Dates/Location
+
 專業課程與會期同時，將和 PyCon Taiwan 大會平行舉行，教室待定。
 
 Tutorials are held in parallel with the main conference, and tutorials will be held at the same online venue as the main conference, albeit in different rooms.
 
-# 售票政策 Charging Policy
+## 售票政策 Charging Policy
+
 本次會議專業課程不額外收費。
 
 All tutorials will be free for conference participants.
 
-# 如何成為講師 How to Become an Instructor
+## 如何成為講師 How to Become an Instructor
+
 最簡單也是最好的答案：多多參與各地 Python 的社群並多給演講吧！
 如果有任何疑問或需要協助的地方，歡迎聯繫我們。
 
 The easiest way is to get involved in your local Python communities by speaking at these events.
 If you have any questions or suggestions, please don’t hesitate to contact us.
-
-
