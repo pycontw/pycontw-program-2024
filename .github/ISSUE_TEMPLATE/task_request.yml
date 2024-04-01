@@ -14,17 +14,17 @@ body:
 
 - type: textarea
   attributes:
-    label: What problem does this feature solve?
+    label: What problem does this task solve?
     description: |
-      Explain your use case, context, and rationale behind this feature request. More importantly, what is the end result you are trying to achieve that led to the need for this feature?
+      Explain your use case, context, and rationale behind this task request. More importantly, what is the end result you are trying to achieve that led to the need for this task?
 
   validations:
     required: true
 
 - type: textarea
   attributes:
-    label: What does the proposed feature look like?
-    description: Describe how you propose to solve the problem and provide code samples of how the feature would work once implemented. Note that you can use [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to format your code blocks.
+    label: What does the proposed task look like?
+    description: Describe how you propose to solve the problem and provide code samples of how the task would work once implemented. Note that you can use [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to format your code blocks.
 
   validations:
     required: true
