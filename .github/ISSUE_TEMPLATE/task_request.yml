@@ -1,7 +1,7 @@
-name: Feature Request
-description: Request a new feature from pycontw-program-2024
-title: "[Feature] "
-labels: [new-feature]
+name: Task Request
+description: Request a new task from pycontw-program-2024
+title: "[Task] "
+labels: [new-task]
 body:
 - type: markdown
   attributes:
