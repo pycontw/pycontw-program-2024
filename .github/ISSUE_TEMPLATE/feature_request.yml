@@ -28,3 +28,12 @@ body:
 
   validations:
     required: true
+
+
+- type: textarea
+  attributes:
+    label: Reference
+    description: Any relevant links.
+
+  validations:
+    required: false
